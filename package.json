@@ -1,19 +1,19 @@
 {
-  "name": "react-chartjs-3",
+  "name": "@knowt/react-chartjs-3",
   "version": "1.1.0",
   "description": "react-chartjs-3",
   "main": "lib/index.js",
   "module": "es/index.js",
   "jsnext:main": "es/index.js",
   "author": "yuan9090 (yuan9090@gmail.com)",
-  "homepage": "https://github.com/yuan9090/react-chartjs-3",
+  "homepage": "https://github.com/Knowt/react-chartjs-3",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yuan9090/react-chartjs-3.git"
+    "url": "https://github.com/Knowt/react-chartjs-3.git"
   },
   "bugs": {
-    "url": "https://github.com/yuan9090/react-chartjs-3/issues"
+    "url": "https://github.com/Knowt/react-chartjs-3/issues"
   },
   "dependencies": {
     "lodash": "^4.17.19",
